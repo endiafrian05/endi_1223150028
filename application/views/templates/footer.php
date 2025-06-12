@@ -1,5 +1,5 @@
 <footer class="main-footer text-center">
-  <strong>&copy; <?= date('Y'); ?> RS Aman Sejahtera.</strong> All rights reserved.
+  <strong>&copy; <?= date('Y'); ?> Afrian Wiartono Hospital.</strong> All rights reserved.
 </footer>
 
 
